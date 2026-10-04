@@ -2,6 +2,8 @@
 
 Web制作基礎・Web制作実習で使う、非公式の授業用見本です。
 
+公開サイト：<https://web-sakuse-temple.vercel.app/>
+
 ## ページ
 
 - `public/index.html` — 授業の入口
@@ -39,4 +41,4 @@ Framework: Other / Build command: `node scripts/build.mjs` / Output directory: `
 
 デザイン方針は `design.md`。既存のHTMLルートを維持し、CSSと文章を直接編集します。
 GitHubのmainをVercelプロジェクト `web-sakuse-temple` に接続して公開します。
-公開URLと今回の復旧結果は `docs/deployment-report.md` に記録します。
+今回の復旧結果は `docs/deployment-report.md`、第1回の課件更新と授業の流れは `docs/lesson01-update.md` にあります。
