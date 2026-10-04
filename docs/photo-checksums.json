@@ -1,0 +1,22 @@
+[
+  {
+    "id": "hondo",
+    "bytes": 817597,
+    "sha256": "0fee91c113b7b422ca537bce98d76881c42f41b3c88d0eaca85a09fc9cce553c"
+  },
+  {
+    "id": "autumn",
+    "bytes": 347553,
+    "sha256": "62a91c8f5c72603faa36a945a8abc851ef0e36b766e484ac62a19b4ae41525b8"
+  },
+  {
+    "id": "gate",
+    "bytes": 545078,
+    "sha256": "dcba8961a52ced0e0896c6739d1c93b2cc1ae7e81e84a10cfb35ac54f7c87d5d"
+  },
+  {
+    "id": "water",
+    "bytes": 933813,
+    "sha256": "aa051f299bee0a1134b2a85600ddefaa7ccc5db78651515ed9e11abd02674172"
+  }
+]

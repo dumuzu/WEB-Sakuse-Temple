@@ -1,0 +1,8 @@
+{
+  "name": "web-sakuse-temple",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Kyoto Kiyomizu-dera teaching website: HTML/CSS and optional vanilla JavaScript",
+  "scripts": {"build": "node scripts/build.mjs"},
+  "engines": {"node": ">=22"}
+}

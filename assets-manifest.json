@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hondo",
+    "file": "Kiyomizu.jpg",
+    "name": "本堂と京都のまち",
+    "author": "Jordy Meow",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "alt": "木々に囲まれた清水寺の本堂。奥に京都のまちが見えます。",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiyomizu.jpg",
+    "local": "assets/photos/hondo.jpg"
+  },
+  {
+    "id": "autumn",
+    "file": "Kiyomizu_Dera_In_Autumn_(245582905).jpeg",
+    "name": "秋の清水寺",
+    "author": "Siegfried Ehret",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "alt": "赤や黄色の木々に囲まれた清水寺の本堂。",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Kiyomizu_Dera_In_Autumn_%28245582905%29.jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiyomizu_Dera_In_Autumn_%28245582905%29.jpeg",
+    "local": "assets/photos/autumn.jpeg"
+  },
+  {
+    "id": "gate",
+    "file": "Kiyomizudera_Niomon.jpg",
+    "name": "仁王門",
+    "author": "Volfgang（Commonsの掲載情報による）",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "alt": "清水寺の入口にある、赤い仁王門。",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kiyomizudera_Niomon.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiyomizudera_Niomon.jpg",
+    "local": "assets/photos/gate.jpg"
+  },
+  {
+    "id": "water",
+    "file": "Otowa-no-taki,_june_2019.jpg",
+    "name": "音羽の滝",
+    "author": "Cun Cun",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "alt": "音羽の滝。屋根の下から、三つに分かれて水が流れています。",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Otowa-no-taki%2C_june_2019.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Otowa-no-taki%2C_june_2019.jpg",
+    "local": "assets/photos/water.jpg"
+  }
+]
